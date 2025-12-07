@@ -1,0 +1,14 @@
+{
+  "country": "any",
+  "gender": "any",
+  "age": "any",
+  "theme": "default",
+  "language": "english",
+  "features": ["basic"],
+  "ads": ["general"],
+  "settings": {
+    "notifications": true,
+    "autoPlay": true,
+    "quality": "auto"
+  }
+}

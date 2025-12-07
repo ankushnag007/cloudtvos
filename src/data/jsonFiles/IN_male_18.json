@@ -1,0 +1,14 @@
+{
+  "country": "IN",
+  "gender": "male",
+  "age": "18",
+  "theme": "dark",
+  "language": "hindi",
+  "features": ["gaming", "sports"],
+  "ads": ["mobile_games", "sports_gear"],
+  "settings": {
+    "notifications": true,
+    "autoPlay": false,
+    "quality": "hd"
+  }
+}

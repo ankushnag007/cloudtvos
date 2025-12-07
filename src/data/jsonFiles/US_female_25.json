@@ -1,0 +1,14 @@
+{
+  "country": "US",
+  "gender": "female",
+  "age": "25",
+  "theme": "light",
+  "language": "english",
+  "features": ["shopping", "social"],
+  "ads": ["fashion", "cosmetics"],
+  "settings": {
+    "notifications": true,
+    "autoPlay": true,
+    "quality": "hd"
+  }
+}
